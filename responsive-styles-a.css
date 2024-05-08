@@ -45,7 +45,7 @@ footer{
     header {
         background-color: lightgrey;
         width: 100%;
-        height: 78px;
+        height: 80px;
         margin-bottom: 24px;
         padding: 5px;
     }
@@ -72,51 +72,6 @@ footer{
     footer{
         background-color: lightgray;
         height: 78px;
-        margin-top: 24px;
-        padding: 5px;
-    }
-}
-
-@media (min-width: 768px) and (max-width: 1046px) {
-    header {
-        background-color: lightgrey;
-        width: 100%;
-        height: 80px;
-        margin-bottom: 24px;
-        padding: 5px;
-    }
-    
-    .main{
-        position: relative;
-    }
-    
-    .content-a {
-        background-color: red;
-        width: 50%;
-        height: 35vh;
-        padding: 5px;
-    }
-      
-    .content-b {
-        background-color: orange;
-        height: 35vh;
-        width: 50%;
-        padding: 5px;
-    }
-    
-    .content-c {
-        background-color: yellow;
-        position: absolute;
-        top: 0;
-        right: 0;
-        height: 70vh;
-        width: 50%;
-        padding: 5px;
-    }
-    
-    footer{
-        background-color: lightgray;
-        height: 80px;
         margin-top: 24px;
         padding: 5px;
     }
